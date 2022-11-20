@@ -1,0 +1,311 @@
+#encabezado{
+    text-align: center;
+   
+    padding: .5px 10px;
+    left: 0px;
+    height: auto;
+    width: 100%;
+    box-sizing: border-box;
+    border: none;   
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    font-size: 9px;
+    line-height: 0.25px;
+    position: fixed;
+    margin-bottom: 88px;
+    
+    
+}
+
+#colorencabezado{
+
+color: violet;
+cursor: pointer;}
+
+
+
+#Ofertas{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+    margin-top: 30px;
+    margin-bottom: 300px;
+    justify-content: ;
+    align-items: center;
+    margin-right: 0px;
+    height: 1000px;
+
+    margin-left: 200px;
+   
+}
+
+#Ofertas1{
+
+    margin-top: 100px;
+    margin-right: ;
+    justify-content: center;
+    display: flex;
+    font-size: 50px;
+    
+}
+#carta{
+    display: flex;
+    justify-content: center;
+    margin-top:30px;
+    
+    
+
+}
+.carta1{
+    display: block;
+    margin-left: 90px;
+    margin-right: 70px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    border: .1px solid #010000f9;
+    border-radius: 5px;
+    text-align: center;
+    padding: 10px;
+    background-color: rgba(71, 3, 90, 0);
+    height: 350px;
+   
+}
+
+
+.cartaimg{
+    width: 250px;
+    height: 250px;
+    border-radius: 40px;
+    object-fit: cover;
+    margin-left: 5px;
+    margin: bottom 0px;;
+    
+    
+    
+    
+
+
+}
+
+.cartatext{
+    margin-top: px;
+    display: block;
+    font-size: 25px;
+    margin-bottom: px;
+    color: black;
+    
+    
+}
+.carta-price{
+
+font-size: 20px;
+color: red;
+
+
+
+}
+.carta-price1{
+margin-left: 8px;
+font-size: 16px;
+text-decoration: line-through;
+color: gray;
+
+
+}
+
+
+.Categorias ul li{
+
+margin: top 10px;
+
+
+}
+
+.catalogo3{
+
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+#mw-panel{
+
+    position: absolute;
+    font-size: inherit;
+    top: 900px;
+    
+    width: 200px;
+    height: 50px;
+    left: 30px;
+    font-size: 20px;
+    border-right: 1px black;
+}
+
+.panel{
+margin-top: 20px;
+margin-bottom: 10px;
+
+}
+
+
+#mw-panel ul{
+
+    padding-left: 1px;
+    
+}
+.panel-barra{
+    margin-top: 100px;
+    
+}
+
+
+#mw-panel ul li{
+    font-size: 18px;
+    list-style: none;
+    padding-left:0;
+    
+    
+}
+
+
+#mw-panel ul li:hover{
+    cursor: pointer;
+    opacity: .5;
+    
+
+}
+
+#fondobanner{
+    background-image: url(https://cdn.shopify.com/s/files/1/0101/8711/2533/files/B2-tuperware-dsk-sin-texto_1800x.png?v=1614578531);
+    margin-top: 80px;
+    background-size: cover;
+    height: 500px;
+
+}
+
+.bannertext{
+
+    font-size:  40px;
+    position: relative;
+    display: block;
+    text-align: center;
+    margin-bottom: 0px;
+    color: rgb(255, 255, 255);
+    
+    
+    }
+    .bannertext7{
+    
+        font-size:  100px;
+        display:flex;
+        color: white;
+        align-items: center;
+        font-weight: bold;
+    
+    }
+    .bannertext8{
+        font-size: 100px;
+        display:flex;
+        color: white;
+        align-items: center;
+        font-weight: bold;
+    }
+    
+    #banner9{
+    
+        
+        color: rgb(255, 255, 255);
+        
+    }
+
+
+    .footer2{
+
+        background-color: black;
+        margin-top: 200px;
+        color: white;
+        
+        
+        position: relative;
+        bottom: 0;
+        
+        
+        }
+        
+        .footertext{
+        
+        
+        }
+
+        .social-media{
+            
+            margin: 35px auto 30px auto;
+            position:relative;
+            max-width: 1260px;
+            margin-top: 100px;
+            
+        
+        
+        }
+        
+        .social-media ul{
+        
+                list-style: none;
+                padding: 0;
+                margin: 0;
+                text-align: center;
+        
+        
+        }
+        .social-media ul li{
+        
+                display: inline-block;
+                margin:  40px 40px 15px;
+                
+        }
+        
+        .icon{
+        
+            width: 50px;
+            height: 50px;
+            border-radius: 50px;
+            object-fit:cover;
+            display: flex;
+        
+        }
+        .h1-redes{
+
+            margin-left: 550px;
+            font-size: 40px;
+
+        }
+
+        .espacio{
+
+
+            margin-bottom: 500px;
+        }
+        .ul-star{
+            display: flex;
+            padding: 0;
+            list-style: none;
+            justify-content: center;
+            
+
+          }
+          
+          .ul-star li {
+            margin-right: 10px;
+          }
+
+          .star{
+
+            height: 15px;
+            margin-right:;
+          }

@@ -1,0 +1,346 @@
+body{
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   margin-top: 0px;
+   margin-left: 0px;
+   margin-right: 0px;
+   margin-bottom: 0px;
+   
+}
+
+
+#encabezado{
+    text-align: center;
+   
+    padding: .5px 10px;
+    left: 0px;
+    height: auto;
+    width: 100%;
+    box-sizing: border-box;
+    border: none;   
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    font-size: 9px;
+    line-height: 0.25px;
+    position: fixed;
+    margin-bottom: 88px;
+    
+    
+}
+
+#colorencabezado{
+
+color: violet;
+cursor: pointer;
+
+
+
+}
+
+#menu {
+    padding-left: 10px;
+    padding-right: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0px;
+    margin-top: 10px;
+    
+  }
+
+#Logo{
+width: 300px;
+margin-left: 0px;
+margin-top: 20px;
+
+}
+
+#Ulist{
+    display: flex;
+    padding: 0;
+    list-style: none;
+
+}
+
+#Ulist li {
+font-size: 25px;
+margin-left: 10px;
+margin-right: 10px;
+margin-top: 30px;
+
+}
+#Ulist li:hover {
+    opacity: 0.5;
+    cursor: pointer;
+ }
+
+#Baneer{
+
+    width: 100%;
+    height: 500px;
+    background-image:url(https://cdn.shopify.com/s/files/1/0101/8711/2533/files/Siempre-en-orden_1800x.png?v=1614283908);
+    background-size: cover;
+    margin-top: 40px;
+
+}
+
+.bannertext{
+
+font-size:  40px;
+position: relative;
+display: block;
+text-align: center;
+margin-bottom: 0px;
+color: rgb(255, 255, 255);
+
+
+}
+.bannertext2{
+
+    font-size:  120px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+
+}
+.bannertext3{
+    font-size: 130px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+}
+
+#banner2{
+
+    
+    color: white;
+    
+}
+#Ofertas{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+
+
+}
+
+#Ofertas1{
+
+    margin-top: 100px;
+    margin-right: 0px;
+    justify-content: center;
+    display: flex;
+    font-size: 50px;
+    
+}
+#carta{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    
+
+}
+.carta1{
+    display: block;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 1px solid #01000000;
+    border-radius: 5px;
+    text-align: center;
+    padding: 10px;
+    background-color: rgba(90, 3, 65, 0);
+}
+
+
+.cartaimg{
+    width: 250px;
+    height: 250px;
+    border-radius: 80px;
+    object-fit: cover;
+    
+
+
+}
+
+.cartatext{
+    margin-top: 18px;
+    display: block;
+    font-size: 25px;
+    margin-bottom: 13px;
+    color: black;
+    
+}
+.carta-price{
+
+font-size: 20px;
+color: red;
+
+
+
+}
+.carta-price1{
+margin-left: 8px;
+font-size: 16px;
+text-decoration: line-through;
+color: gray;
+
+
+}
+
+.banner3{
+margin-top: 250px;
+background-repeat: no-repeat;
+width: 100%;
+height: 600px;
+background-size: cover;
+}
+
+
+
+#informaciontitle{
+    margin-top: 250px;
+font-size: 40px;
+justify-content: center;
+align-items: center;
+display: flex;
+
+}
+
+#informacion{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+
+}
+
+.informacion1{
+    margin-top: 50px;
+ margin-left: 80px;
+ margin-right: 80px;
+
+}
+
+.infotext{
+    display: flex;
+margin-top: 25px;
+font-size: 20px;
+
+align-items: center;
+margin-left: 10px;
+color: rgb(103, 102, 102);
+
+}
+
+.infotext1{
+
+color: gray;
+font-size: 15px;
+
+
+}
+
+.informacionimg{
+    width: 350px;
+    height: 300px;
+    border-radius: 50px;
+    object-fit:cover;
+    display: flex;
+    
+    
+}
+
+
+.redes-sociales{
+font-size: 50px;
+display: flex;
+align-items: center;
+justify-content: center;
+margin-top: 300px;
+
+
+
+}
+
+.social-media{
+
+    margin: 35px auto 30px auto;
+    position: relative;
+    max-width: 1260px;
+    margin-top: 100px;
+    
+
+
+}
+
+.social-media ul{
+
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        text-align: center;
+
+
+}
+.social-media ul li{
+
+        display: inline-block;
+        margin:  40px 40px 15px;
+        
+}
+
+.icon{
+
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    object-fit:cover;
+    display: flex;
+}
+
+
+
+
+
+#footer{
+
+margin-top: 200px;
+background-color: black;
+color: white;
+height: 30px;
+
+}
+
+.footertext{
+
+
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+
+.whatsapp {
+    position:fixed;
+    width:60px;
+    height:60px;
+    bottom:40px;
+    right:40px;
+    background-color:#25d366;
+    color:#FFF;
+    border-radius:50px;
+    text-align:center;
+    font-size:30px;
+    z-index:100;
+  }
+  
+  .whatsapp-icon {
+    margin-top:13px;
+  }
+
+
+  .link{
+
+
+    color: black;
+  }
